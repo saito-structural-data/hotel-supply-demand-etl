@@ -37,31 +37,6 @@ MLIT（国土交通省）「宿泊旅行統計調査」を用いて、
   - `processed/hotel_master_yearly_with_index.csv`
 
 ---
-## リポジトリ構成
-
-hotel-supply-demand-etl/
-├── README.md
-├── requirements.txt        （任意だが強く推奨）
-├── data/
-│   └── README.md           （元データの置き方・出典を書く）
-├── processed/
-│   ├── hotel_master_with_facility_with_index.csv
-│   ├── hotel_master_yearly_with_index.csv
-│   └── README.md
-├── notebooks/
-│   └── hotel_demand_supply_recovery_analysis.ipynb
-├── src/                    （余力があれば）
-│   ├── __init__.py
-│   ├── preprocessing.py
-│   ├── metrics.py
-│   └── visualization.py
-└── img/                    （README用サムネ）
-    ├── heatmap.png
-    ├── recovery_ranking.png
-    └── supply_demand_matrix.png
-
-
----
 
 ## 分析パイプライン
 
