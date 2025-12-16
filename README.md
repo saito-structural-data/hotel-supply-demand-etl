@@ -28,6 +28,21 @@ MLIT（国土交通省）「宿泊旅行統計調査」を用いて、
 - 分析結果やプロセスの詳細についてはQiitaの記事ご参照いただけますと幸いです（リンク）
 
 ---
+project_name/
+  ├─ data/               # 入出力（raw/processedを分けると尚良）
+  │   ├─ raw/
+  │   └─ processed/
+  ├─ src/                # 前処理・学習・評価を関数化
+  │   ├─ features.py
+  │   ├─ train.py
+  │   ├─ evaluate.py
+  │   ├─ sql/
+  │   │   ├─ create_tables.sql
+  │   │   └─ queries.sql
+  ├─ notebooks/          # 実験用（成果はsrcへ移す）
+  ├─ reports/            # 図/Excel/PDF
+  ├─ requirements.txt
+  └─ README.md           # 再現手順
 
 ## 成果物
 
