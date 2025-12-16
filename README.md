@@ -92,12 +92,6 @@ Raw CSV（宿泊旅行統計）
 - **Plotly**：可視化（回復ランキング・需給マトリクス等）
 - **scikit-learn**：標準化処理（指標作成補助）
 
-### 実行環境
-
-- Google Colaboratory（主な開発・実行環境）
-- ローカル実行可（Jupyter Notebook / Python）
-
-※ Notebookは **Colab / ローカル双方で再現可能**な構成を前提としています。
 
 ## 実行環境について
 
