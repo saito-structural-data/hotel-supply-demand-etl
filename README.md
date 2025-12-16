@@ -112,6 +112,8 @@ Raw CSV（宿泊旅行統計）
 
 ```bash
 pip install -r requirements.txt
+```
+
 - data/ フォルダに元CSVを配置後、Notebookを上から順に実行してください
 - Google Colab / ローカル（Jupyter Notebook）双方で実行可能です
 - ※ google.colab 関連の処理は Colab 実行時のみ使用されます。
