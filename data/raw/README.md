@@ -5,7 +5,7 @@
 ### 観光庁「宿泊旅行統計調査」（公式サイト）
 - 最新の月次推移表を需要側データとして利用
 - 都道府県別・月次の延べ宿泊者数、外国人宿泊者数等を取得
-- リンク：[[観光庁 宿泊旅行統計調査](https://www.mlit.go.jp/kankocho/tokei_hakusyo/shukuhakutokei.html)
+- リンク：[観光庁 宿泊旅行統計調査](https://www.mlit.go.jp/kankocho/tokei_hakusyo/shukuhakutokei.html)
 
 ### e-Stat（政府統計ポータルサイト）
 - 宿泊旅行統計調査のデータセットを一括ダウンロード可能
