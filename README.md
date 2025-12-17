@@ -77,7 +77,6 @@
 
 ## 使用データ・出典
 
-- 出典：国土交通省（観光庁）「宿泊旅行統計調査」
 ### 観光庁「宿泊旅行統計調査」（公式サイト）
 - 最新の月次推移表を需要側データとして利用
 - リンク：[観光庁 宿泊旅行統計調査](https://www.mlit.go.jp/kankocho/tokei_hakusyo/shukuhakutokei.html)
@@ -85,7 +84,6 @@
 ### e-Stat（政府統計ポータルサイト）
 - 宿泊旅行統計調査のデータセットを一括ダウンロード可能
 - リンク：[宿泊旅行統計調査 データセット一覧](https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00601020&kikan=00601&tstat=000001079598&cycle=7&result_back=1&tclass1val=0)
----
 
 ※ 元データは再配布制限の可能性があるため、本リポジトリには同梱していません。
 
