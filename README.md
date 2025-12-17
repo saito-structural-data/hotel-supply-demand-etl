@@ -1,4 +1,4 @@
-# Hotel Demand–Supply Recovery Analysis (Japan)
+# 都道府県別　宿泊市場回復度分析
 
 MLIT（国土交通省）「宿泊旅行統計調査」を用いて、  
 **コロナ禍前後における宿泊市場の回復度合いを都道府県別に可視化・構造分析**したプロジェクトです。
@@ -25,17 +25,18 @@ MLIT（国土交通省）「宿泊旅行統計調査」を用いて、
 - インバウンド依存度が高い市場は高稼働になりやすい一方、**変動リスクも高い傾向**
 - 市場規模が比較的小さい地域ほど供給過多になりにくく、  
   **回復を先行して捉えやすい可能性**が示唆される
-- 分析結果やプロセスの詳細についてはQiitaの記事ご参照いただけますと幸いです（リンク）
+- ※分析結果やプロセスの詳細についてはQiitaの記事ご参照いただけますと幸いです
 
 ---
 
 ## 成果物
 
-- 📒 **Notebook（分析本体・推奨）**
+- **Notebook（分析本体）**
   - `notebooks/hotel_demand_supply_recovery_analysis.ipynb`
-- 📁 **加工済みデータ（成果物）**
+- **加工済みデータ**
   - `processed/hotel_master_with_facility_with_index.csv`
   - `processed/hotel_master_yearly_with_index.csv`
+- [Qiita記事](https://qiita.com/mnmnmnmn0110/private/866d29ac5a43bb090220)
 
 ---
 
